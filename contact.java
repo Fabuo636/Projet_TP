@@ -19,3 +19,4 @@ public class Contact {
                ", Email: " + email;
     }
 }
+//Pour plus d'informations sur la classe Contact, voir le fichier contact.java
